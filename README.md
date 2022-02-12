@@ -27,4 +27,4 @@ THEN I find a concise, descriptive title
 ```
 # Challenge01
 
-![screenshot](assets/images/Screenshot.png)
+![screenshot](assets/images/Screenshot_Horiseon.png)
