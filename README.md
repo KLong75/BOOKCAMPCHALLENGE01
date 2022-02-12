@@ -25,4 +25,4 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 # Challenge01
-![Screenshot (39)](https://user-images.githubusercontent.com/98487770/153720633-e1583e97-a422-4ba8-bdb2-806b2b38701c.png)
+
