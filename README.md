@@ -26,3 +26,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 # Challenge01
 
+![Screenshot of live website] (https://imgur.com/a/effwkya)
