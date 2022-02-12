@@ -24,6 +24,7 @@ WHEN I view the heading attributess
 THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 # Challenge01
 
-![Screenshot of live website](https://imgur.com/a/effwkya)
+![screenshot](assets/images/Screenshot.png)
